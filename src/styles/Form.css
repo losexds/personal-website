@@ -1,0 +1,48 @@
+.forms {
+    display: block;
+    margin: 64px auto;
+}
+
+.forms .forms--group {
+    display: flex;
+}
+
+.forms .forms--content {
+    display: flex;
+}
+
+.forms .forms--form {
+    display: block;
+    width: 50%;
+}
+
+.forms h2 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 39.06px;
+    line-height: 144%;
+    /* or 56px */
+
+
+    color: #FFFFFF;   
+}
+
+.forms img {
+    width: 200px;
+}
+
+.forms
+
+.forms .input--name {
+    width: 475px;
+    height: 60px;
+    width: 100%;
+    padding: 20px 32px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid blue;
+    border-radius: 11px;
+    margin-top: 20px;
+
+    color: white;
+}

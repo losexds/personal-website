@@ -1,0 +1,55 @@
+.Works {
+    margin: 64px auto;
+    gap: 10px;
+}
+
+.Works .Works-list {
+    display: flex;
+}
+
+.Works .item {
+    width: 350px;
+}
+
+
+.Works h2 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 39.06px;
+    line-height: 144%;
+    /* or 56px */
+
+
+    color: #FFFFFF;
+
+}
+
+.Works h3 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
+
+
+    color: #FFFFFF;
+}
+
+.Works p {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    margin-top: 8px;
+
+
+    color: rgba(255, 255, 255, 0.48);
+
+}
+
+.Works img {
+    border-radius: 16px;
+}

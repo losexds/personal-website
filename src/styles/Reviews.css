@@ -1,0 +1,52 @@
+.Reviews {
+    display: block;
+    margin: 64px auto;
+}
+
+.Reviews .avatar {
+    border-radius: 100%;
+}
+
+.Reviews .item {
+    margin-bottom: 20px;
+    width: 350px;
+}
+
+.Reviews h3 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
+    margin: 12px auto;
+
+
+    color: #FFFFFF;
+}
+
+.Reviews p {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    /* or 20px */
+
+
+    color: rgba(255, 255, 255, 0.48);
+}
+
+.Reviews h2 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 39.06px;
+    line-height: 144%;
+
+    color: #FFFFFF;   
+}
+
+.Reviews .Reviews-list {
+    display: flex;
+}

@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: #030303;
+}
+
+img {
+    pointer-events: none;
+    user-select: none;
+}
+
+.center-column {
+    width: 100%;
+    max-width: 1200px;
+
+    margin: 0 auto;
+    padding: 0 20px;
+    display: block;
+}

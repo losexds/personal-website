@@ -1,0 +1,29 @@
+.Alert-banner {
+    width: 100%;
+    height: 100px;
+
+    margin: 32px 0;
+    padding: 12px 0;
+
+    background: url(https://rp.plo.su/assets/newlanding/common-bg.webp);
+    color: white;
+    border-radius: 16px;
+
+    z-index: 100;
+
+    font-family: 'SF Pro Display';
+}
+
+.Alert-banner .Alert-inner {
+    width: 75%;
+
+    margin: auto;
+    display: block;
+
+    text-align: center;
+}
+
+.Alert-banner h2, p {
+    background: none;
+}
+

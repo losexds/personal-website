@@ -1,0 +1,81 @@
+.banner {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    font-family: 'SF Pro Display';
+}
+
+.banner .text-place {
+    width: 646px;
+    display: flex;
+    margin: auto 0;
+}
+
+.banner .text-place a {
+    transition: 0.32s;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.48);
+}
+
+.banner .text-place a:hover {
+    color: white;
+    transition: 0.32s;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.banner .text-place span {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+
+    color: rgba(255, 255, 255, 0.48);
+}
+
+.banner p {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 115%;
+
+    margin: 16px 0 28px 0;
+
+
+    color: rgba(255, 255, 255, 0.48);
+}
+
+.banner .text-place button {
+    color: white;
+    background: linear-gradient(to left, #DB00FF 0%, #FF6B00 100%);
+    background-size: 200%;
+    background-position: left;
+    padding: 16px 32px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+
+    text-transform: uppercase;
+    transition: 0.32s;
+
+    color: #FFFFFF;
+
+}
+.banner .text-place button:hover {
+    background-position: right;
+    transition: 0.64s;
+}
+
+.banner strong {
+    color: rgba(255, 255, 255, 0.48);
+}
+
+.banner img {
+    user-select: none;
+}
+
